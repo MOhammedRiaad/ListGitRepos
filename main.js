@@ -1,7 +1,7 @@
 
 // global def 
 
-let list = document.getElementById("portfolio");
+let list = document.getElementById("list");
 
 async function getUserAsync() 
 {
